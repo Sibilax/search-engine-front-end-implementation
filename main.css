@@ -68,7 +68,7 @@ html {
   border-radius: 0.5rem;
 }
 
-.search-bar input[type="text"]::placeholer {
+.search-bar input[type="text"]::placeholder {
   font-family: "Font Awesome\ 5 Free", Arial, Helvetica, sans-serif;
   font-weight: 600;
   color: #a4a4a4;
